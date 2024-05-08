@@ -1,2 +1,1 @@
-# snap-test
- 
+# camera_kit_demo
