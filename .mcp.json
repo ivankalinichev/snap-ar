@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "arclip": {
+      "type": "http",
+      "url": "https://arclip.design/api/mcp/v1",
+      "headers": {
+        "Authorization": "Bearer ${ARCLIP_API_TOKEN}"
+      }
+    }
+  }
+}
